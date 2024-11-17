@@ -1,0 +1,8 @@
+{
+  "name": "cffe-demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@vercel/edge": "^0.1.2"
+  }
+}
